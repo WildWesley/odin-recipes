@@ -1,2 +1,2 @@
 # odin-recipes
-In this project, I'm going to be applying the basic skills of HTML that I've learned such as creating and formatting texts, importing images, and linking to other pages.
+In this project, I'm going to be applying the HTML and CSS skills that I've learned in order to display information about some of our family favorite recipes in a presentable way.
